@@ -1,2 +1,5 @@
 # Tic-tac-toe
-Tic tac toe game 
+ It is a terminal based 2 player game  
+ 
+# Made using
+ C++ Functions and Basic Logic
